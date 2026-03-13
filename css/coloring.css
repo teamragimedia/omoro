@@ -116,7 +116,7 @@ a.btn-line:hover,
     background: var(--primary-color);
 }
 
-.id-color,
+
 .date-box .day,
 .slider_text h1,
 h1.id-color,
@@ -512,4 +512,8 @@ footer.footer-light{
         background: var(--primary-color);
     }
 
+}
+
+.id-color {
+  color: #ffffff;
 }
