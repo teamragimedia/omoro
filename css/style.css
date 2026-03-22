@@ -465,6 +465,7 @@ header.smaller.scroll-light #mainmenu li.has-child:after {
 
 div#logo img{
   max-width: var(--logo-width);
+  width: 100%;
 }
 
 footer .logo-footer{
